@@ -1,0 +1,7 @@
+
+nav a{
+  margin-right: 40px;
+}
+#sidebar a.active{
+  color: red;
+}
